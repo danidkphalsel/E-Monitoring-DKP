@@ -1,0 +1,6 @@
+{
+  "name": "E-Realisasi DKP Halmahera Selatan",
+  "description": "Aplikasi Realisasi Fisik dan Keuangan Dinas Kelautan dan Perikanan Kabupaten Halmahera Selatan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
